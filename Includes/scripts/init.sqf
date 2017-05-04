@@ -1,7 +1,7 @@
 enableSentences false;
 enableRadio false;
 
-tf_no_auto_long_range_radio = true; // disables TFR default radio assignment
+//tf_no_auto_long_range_radio = true; // Causes the exact opposite effect REMOVE FOR NOW
 
 []spawn {
 	while {true} do {{
