@@ -43,3 +43,5 @@ _veh addWeaponCargoGlobal ["ACE_VMM3",1];
 _veh addWeaponCargoGlobal ["rhs_weap_M320",1];
 
 hint "Cell Supplies Loaded";
+
+blaaa blaaaaaaaaa
