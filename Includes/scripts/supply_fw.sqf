@@ -18,7 +18,7 @@ _veh addItemCargoGlobal ["ACE_Chemlight_IR",8];
 
 // magazines and explosives go here
 // "xx" = amount you want eg 6
-_veh addMagazineCargoGlobal ["rhsusf_mag_40Rnd_46x30_FMJ",xx];
+_veh addMagazineCargoGlobal ["rhsusf_mag_40Rnd_46x30_FMJ",4];
 
 // weapons go here
 // "xx" = amount you want eg 6 
