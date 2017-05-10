@@ -17,6 +17,11 @@ class CfgSounds
 
 };
 
+class ace_captives_captivityEnabled {
+    value = 1;
+    typeName = "BOOL";
+    force = 1;
+};
 
 respawn = 3;
 respawnDelay = 9999999999;
