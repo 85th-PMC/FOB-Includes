@@ -770,11 +770,11 @@ class items
 						};
 						class backpack
 						{
-							typeName="tacs_Backpack_AssaultExpanded_Tan";
+							typeName="45KO2_kitbag_beta";
 							isBackpack=1;
 							class ItemCargo
 							{
-								items=7;
+								items=8;
 								class Item0
 								{
 									name="ACE_elasticBandage";
@@ -808,6 +808,11 @@ class items
 								class Item6
 								{
 									name="ACE_personalAidKit";
+									count=1;
+								};
+								class Item7
+								{
+									name="ACE_bodyBag";
 									count=1;
 								};
 							};
@@ -936,7 +941,7 @@ class items
 								class Item1
 								{
 									name="ACE_CableTie";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -1146,7 +1151,7 @@ class items
 								class Item1
 								{
 									name="ACE_CableTie";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -1436,11 +1441,11 @@ class items
 						};
 						class backpack
 						{
-							typeName="tacs_Backpack_AssaultExpanded_Tan";
+							typeName="45KO2_kitbag_beta";
 							isBackpack=1;
 							class ItemCargo
 							{
-								items=6;
+								items=7;
 								class Item0
 								{
 									name="ACE_elasticBandage";
@@ -1470,6 +1475,11 @@ class items
 								{
 									name="ACE_salineIV";
 									count=10;
+								};
+								class Item6
+								{
+									name="ACE_bodyBag";
+									count=1;
 								};
 							};
 						};
@@ -1684,11 +1694,11 @@ class items
 						};
 						class backpack
 						{
-							typeName="tacs_Backpack_AssaultExpanded_Tan";
+							typeName="45KO2_kitbag_beta";
 							isBackpack=1;
 							class ItemCargo
 							{
-								items=6;
+								items=7;
 								class Item0
 								{
 									name="ACE_elasticBandage";
@@ -1718,6 +1728,11 @@ class items
 								{
 									name="ACE_salineIV";
 									count=10;
+								};
+								class Item6
+								{
+									name="ACE_bodyBag";
+									count=1;
 								};
 							};
 						};
@@ -1898,7 +1913,7 @@ class items
 						};
 						class vest
 						{
-							typeName="tacs_Vest_PlateCarrier_Coyote";
+							typeName="45KO2_1_vest_1_gl_beta";
 							isBackpack=0;
 							class MagazineCargo
 							{
@@ -1931,7 +1946,7 @@ class items
 						};
 						class backpack
 						{
-							typeName="tacs_Backpack_Carryall_DarkBlack";
+							typeName="45KO2_Carryall_gamma";
 							isBackpack=1;
 							class MagazineCargo
 							{
@@ -2199,7 +2214,7 @@ class items
 						};
 						class backpack
 						{
-							typeName="tacs_Backpack_AssaultExpanded_Tan";
+							typeName="45KO2_kitbag_beta";
 							isBackpack=1;
 							class ItemCargo
 							{
@@ -2399,7 +2414,7 @@ class items
 						};
 						class backpack
 						{
-							typeName="tacs_Backpack_AssaultExpanded_Tan";
+							typeName="45KO2_kitbag_beta";
 							isBackpack=1;
 							class ItemCargo
 							{
@@ -2598,7 +2613,7 @@ class items
 						};
 						class backpack
 						{
-							typeName="tacs_Backpack_AssaultExpanded_Tan";
+							typeName="45KO2_kitbag_beta";
 							isBackpack=1;
 							class ItemCargo
 							{
@@ -2742,7 +2757,7 @@ class items
 								class Item1
 								{
 									name="ACE_CableTie";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -2951,7 +2966,7 @@ class items
 								class Item1
 								{
 									name="ACE_CableTie";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -3240,11 +3255,11 @@ class items
 						};
 						class backpack
 						{
-							typeName="tacs_Backpack_AssaultExpanded_Tan";
+							typeName="45KO2_kitbag_beta";
 							isBackpack=1;
 							class ItemCargo
 							{
-								items=6;
+								items=7;
 								class Item0
 								{
 									name="ACE_elasticBandage";
@@ -3274,6 +3289,11 @@ class items
 								{
 									name="ACE_salineIV";
 									count=10;
+								};
+								class Item6
+								{
+									name="ACE_bodyBag";
+									count=1;
 								};
 							};
 						};
@@ -3487,11 +3507,11 @@ class items
 						};
 						class backpack
 						{
-							typeName="tacs_Backpack_AssaultExpanded_Tan";
+							typeName="45KO2_kitbag_beta";
 							isBackpack=1;
 							class ItemCargo
 							{
-								items=6;
+								items=7;
 								class Item0
 								{
 									name="ACE_elasticBandage";
@@ -3521,6 +3541,11 @@ class items
 								{
 									name="ACE_salineIV";
 									count=10;
+								};
+								class Item6
+								{
+									name="ACE_bodyBag";
+									count=1;
 								};
 							};
 						};
@@ -3700,7 +3725,7 @@ class items
 						};
 						class vest
 						{
-							typeName="tacs_Vest_PlateCarrier_Coyote";
+							typeName="45KO2_1_vest_1_gl_beta";
 							isBackpack=0;
 							class MagazineCargo
 							{
@@ -3733,7 +3758,7 @@ class items
 						};
 						class backpack
 						{
-							typeName="tacs_Backpack_Carryall_DarkBlack";
+							typeName="45KO2_Carryall_gamma";
 							isBackpack=1;
 							class MagazineCargo
 							{
@@ -4001,7 +4026,7 @@ class items
 						};
 						class backpack
 						{
-							typeName="tacs_Backpack_AssaultExpanded_Tan";
+							typeName="45KO2_kitbag_beta";
 							isBackpack=1;
 							class ItemCargo
 							{
@@ -4201,7 +4226,7 @@ class items
 						};
 						class backpack
 						{
-							typeName="tacs_Backpack_AssaultExpanded_Tan";
+							typeName="45KO2_kitbag_beta";
 							isBackpack=1;
 							class ItemCargo
 							{
@@ -4399,7 +4424,7 @@ class items
 						};
 						class backpack
 						{
-							typeName="tacs_Backpack_AssaultExpanded_Tan";
+							typeName="45KO2_kitbag_beta";
 							isBackpack=1;
 							class ItemCargo
 							{
@@ -6223,7 +6248,7 @@ class items
 						radio="tf_anprc152";
 						gps="ItemcTab";
 						goggles="G_Aviator";
-						headgear="tacs_Cap_BlackLogo";
+						headgear="tf47_beret";
 					};
 				};
 				id=302;
@@ -6449,7 +6474,7 @@ class items
 						radio="tf_anprc152";
 						gps="ItemcTab";
 						goggles="G_Aviator";
-						headgear="tacs_Cap_BlackLogo";
+						headgear="tf47_beret";
 					};
 				};
 				id=303;
