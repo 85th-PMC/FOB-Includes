@@ -17,6 +17,17 @@ class CfgSounds
 
 };
 
+class CfgUnitInsignia
+{
+	class 85thID
+	{
+		displayName = "85th PMC";
+		author = "85th PMC";
+		texture = "pmc.paa";
+		textureVehicle = ""; // Does nothing currently, reserved for future use
+	};
+};
+
 
 respawn = 3;
 respawnDelay = 9999999999;
