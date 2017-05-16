@@ -93,7 +93,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=5;
+								items=6;
 								class Item0
 								{
 									name="SmokeShell";
@@ -122,6 +122,12 @@ class items
 								{
 									name="HandGrenade";
 									count=2;
+									ammoLeft=1;
+								};
+								class Item5
+								{
+									name="rhs_mag_mk84";
+									count=1;
 									ammoLeft=1;
 								};
 							};
@@ -288,7 +294,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=5;
+								items=6;
 								class Item0
 								{
 									name="SmokeShell";
@@ -317,6 +323,12 @@ class items
 								{
 									name="HandGrenade";
 									count=2;
+									ammoLeft=1;
+								};
+								class Item5
+								{
+									name="rhs_mag_mk84";
+									count=1;
 									ammoLeft=1;
 								};
 							};
@@ -483,7 +495,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=5;
+								items=6;
 								class Item0
 								{
 									name="SmokeShell";
@@ -512,6 +524,12 @@ class items
 								{
 									name="HandGrenade";
 									count=2;
+									ammoLeft=1;
+								};
+								class Item5
+								{
+									name="rhs_mag_mk84";
+									count=1;
 									ammoLeft=1;
 								};
 							};
@@ -673,7 +691,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=5;
+								items=6;
 								class Item0
 								{
 									name="SmokeShell";
@@ -701,6 +719,12 @@ class items
 								class Item4
 								{
 									name="SmokeShellPurple";
+									count=1;
+									ammoLeft=1;
+								};
+								class Item5
+								{
+									name="rhs_mag_mk84";
 									count=1;
 									ammoLeft=1;
 								};
@@ -914,7 +938,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=5;
+								items=6;
 								class Item0
 								{
 									name="SmokeShell";
@@ -943,6 +967,12 @@ class items
 								{
 									name="HandGrenade";
 									count=2;
+									ammoLeft=1;
+								};
+								class Item5
+								{
+									name="rhs_mag_mk84";
+									count=1;
 									ammoLeft=1;
 								};
 							};
@@ -1123,7 +1153,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=5;
+								items=6;
 								class Item0
 								{
 									name="SmokeShell";
@@ -1152,6 +1182,12 @@ class items
 								{
 									name="HandGrenade";
 									count=2;
+									ammoLeft=1;
+								};
+								class Item5
+								{
+									name="rhs_mag_mk84";
+									count=1;
 									ammoLeft=1;
 								};
 							};
@@ -1337,7 +1373,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=5;
+								items=6;
 								class Item0
 								{
 									name="SmokeShell";
@@ -1365,6 +1401,12 @@ class items
 								class Item4
 								{
 									name="SmokeShellPurple";
+									count=1;
+									ammoLeft=1;
+								};
+								class Item5
+								{
+									name="rhs_mag_mk84";
 									count=1;
 									ammoLeft=1;
 								};
@@ -1589,7 +1631,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=5;
+								items=6;
 								class Item0
 								{
 									name="SmokeShell";
@@ -1617,6 +1659,12 @@ class items
 								class Item4
 								{
 									name="SmokeShellPurple";
+									count=1;
+									ammoLeft=1;
+								};
+								class Item5
+								{
+									name="rhs_mag_mk84";
 									count=1;
 									ammoLeft=1;
 								};
@@ -1846,7 +1894,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=4;
+								items=5;
 								class Item0
 								{
 									name="SmokeShellGreen";
@@ -1871,6 +1919,12 @@ class items
 									count=2;
 									ammoLeft=1;
 								};
+								class Item4
+								{
+									name="rhs_mag_mk84";
+									count=1;
+									ammoLeft=1;
+								};
 							};
 						};
 						class backpack
@@ -1879,7 +1933,7 @@ class items
 							isBackpack=1;
 							class MagazineCargo
 							{
-								items=3;
+								items=4;
 								class Item0
 								{
 									name="APERSTripMine_Wire_Mag";
@@ -1895,6 +1949,12 @@ class items
 								class Item2
 								{
 									name="SLAMDirectionalMine_Wire_Mag";
+									count=1;
+									ammoLeft=1;
+								};
+								class Item3
+								{
+									name="ClaymoreDirectionalMine_Remote_Mag";
 									count=1;
 									ammoLeft=1;
 								};
@@ -2114,7 +2174,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=4;
+								items=5;
 								class Item0
 								{
 									name="SmokeShell";
@@ -2137,6 +2197,12 @@ class items
 								{
 									name="HandGrenade";
 									count=2;
+									ammoLeft=1;
+								};
+								class Item4
+								{
+									name="rhs_mag_mk84";
+									count=1;
 									ammoLeft=1;
 								};
 							};
@@ -2313,7 +2379,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=4;
+								items=5;
 								class Item0
 								{
 									name="SmokeShell";
@@ -2336,6 +2402,12 @@ class items
 								{
 									name="HandGrenade";
 									count=2;
+									ammoLeft=1;
+								};
+								class Item4
+								{
+									name="rhs_mag_mk84";
+									count=1;
 									ammoLeft=1;
 								};
 							};
@@ -2511,7 +2583,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=4;
+								items=5;
 								class Item0
 								{
 									name="SmokeShell";
@@ -2534,6 +2606,12 @@ class items
 								{
 									name="HandGrenade";
 									count=2;
+									ammoLeft=1;
+								};
+								class Item4
+								{
+									name="rhs_mag_mk84";
+									count=1;
 									ammoLeft=1;
 								};
 							};
@@ -2722,7 +2800,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=5;
+								items=6;
 								class Item0
 								{
 									name="SmokeShell";
@@ -2751,6 +2829,12 @@ class items
 								{
 									name="HandGrenade";
 									count=2;
+									ammoLeft=1;
+								};
+								class Item5
+								{
+									name="rhs_mag_mk84";
+									count=1;
 									ammoLeft=1;
 								};
 							};
@@ -2931,7 +3015,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=5;
+								items=6;
 								class Item0
 								{
 									name="SmokeShell";
@@ -2960,6 +3044,12 @@ class items
 								{
 									name="HandGrenade";
 									count=2;
+									ammoLeft=1;
+								};
+								class Item5
+								{
+									name="rhs_mag_mk84";
+									count=1;
 									ammoLeft=1;
 								};
 							};
@@ -3145,7 +3235,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=5;
+								items=6;
 								class Item0
 								{
 									name="SmokeShell";
@@ -3173,6 +3263,12 @@ class items
 								class Item4
 								{
 									name="SmokeShellPurple";
+									count=1;
+									ammoLeft=1;
+								};
+								class Item5
+								{
+									name="rhs_mag_mk84";
 									count=1;
 									ammoLeft=1;
 								};
@@ -3397,7 +3493,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=5;
+								items=6;
 								class Item0
 								{
 									name="SmokeShell";
@@ -3425,6 +3521,12 @@ class items
 								class Item4
 								{
 									name="SmokeShellPurple";
+									count=1;
+									ammoLeft=1;
+								};
+								class Item5
+								{
+									name="rhs_mag_mk84";
 									count=1;
 									ammoLeft=1;
 								};
@@ -3654,7 +3756,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=4;
+								items=5;
 								class Item0
 								{
 									name="SmokeShellGreen";
@@ -3679,6 +3781,12 @@ class items
 									count=2;
 									ammoLeft=1;
 								};
+								class Item4
+								{
+									name="rhs_mag_mk84";
+									count=1;
+									ammoLeft=1;
+								};
 							};
 						};
 						class backpack
@@ -3687,7 +3795,7 @@ class items
 							isBackpack=1;
 							class MagazineCargo
 							{
-								items=3;
+								items=4;
 								class Item0
 								{
 									name="APERSTripMine_Wire_Mag";
@@ -3703,6 +3811,12 @@ class items
 								class Item2
 								{
 									name="SLAMDirectionalMine_Wire_Mag";
+									count=1;
+									ammoLeft=1;
+								};
+								class Item3
+								{
+									name="ClaymoreDirectionalMine_Remote_Mag";
 									count=1;
 									ammoLeft=1;
 								};
@@ -3922,7 +4036,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=4;
+								items=5;
 								class Item0
 								{
 									name="SmokeShell";
@@ -3945,6 +4059,12 @@ class items
 								{
 									name="HandGrenade";
 									count=2;
+									ammoLeft=1;
+								};
+								class Item4
+								{
+									name="rhs_mag_mk84";
+									count=1;
 									ammoLeft=1;
 								};
 							};
@@ -4121,7 +4241,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=4;
+								items=5;
 								class Item0
 								{
 									name="SmokeShell";
@@ -4144,6 +4264,12 @@ class items
 								{
 									name="HandGrenade";
 									count=2;
+									ammoLeft=1;
+								};
+								class Item4
+								{
+									name="rhs_mag_mk84";
+									count=1;
 									ammoLeft=1;
 								};
 							};
@@ -4319,7 +4445,7 @@ class items
 							isBackpack=0;
 							class MagazineCargo
 							{
-								items=4;
+								items=5;
 								class Item0
 								{
 									name="SmokeShell";
@@ -4342,6 +4468,12 @@ class items
 								{
 									name="HandGrenade";
 									count=2;
+									ammoLeft=1;
+								};
+								class Item4
+								{
+									name="rhs_mag_mk84";
+									count=1;
 									ammoLeft=1;
 								};
 							};
