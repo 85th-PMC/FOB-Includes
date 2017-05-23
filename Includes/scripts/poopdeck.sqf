@@ -1,0 +1,1 @@
+player SetPosATL [(getMarkerPos "poopdeck") select 0, (getMarkerPos "poopdeck") select 1, 0.1];
