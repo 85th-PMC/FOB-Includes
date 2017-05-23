@@ -1,12 +1,17 @@
-#include "details.hpp"
-#include "ASORVS\menu.hpp"
-
 class CfgFunctions
 {
-#include "ASORVS\cfgfunctions.hpp"
+
+	#include "scripts\GOM\functions\GOM_fnc_functions.hpp"
+	#include "ASORVS\cfgfunctions.hpp"
+
 };
 
+#include "scripts\GOM\dialogs\GOM_dialog_parents.hpp"
+#include "scripts\GOM\dialogs\GOM_dialog_controls.hpp"
+#include "details.hpp"
+#include "ASORVS\menu.hpp"
 #include "ATM_airdrop\dialog.hpp"
+
 class CfgSounds
 {
    sounds[] = {Vent,Vent2,Para};
