@@ -6619,8 +6619,8 @@ class items
 		dataType="Logic";
 		class PositionInfo
 		{
-			position[]={-2.0048828,0,13.103882};
-			angles[]={0,3.7577207,0};
+			position[]={-2.0043945,0,13.104004};
+			angles[]={0,3.7577288,0};
 		};
 		name="bis_curator_2";
 		id=344;
@@ -6642,7 +6642,7 @@ class items
 								"STRING"
 							};
 						};
-						value="bis_curatorUnit";
+						value="bis_curatorUnit_2";
 					};
 				};
 			};
@@ -6731,7 +6731,7 @@ class items
 		class PositionInfo
 		{
 			position[]={-2.0004883,0,15.331055};
-			angles[]={0,3.7577207,0};
+			angles[]={0,3.7577288,0};
 		};
 		name="bis_curator_3";
 		id=345;
@@ -6753,7 +6753,7 @@ class items
 								"STRING"
 							};
 						};
-						value="bis_curatorUnit_1";
+						value="bis_curatorUnit_3";
 					};
 				};
 			};
