@@ -34,6 +34,15 @@ objNull spawn {
 		{ _veh removeWeaponGlobal _x } forEach ((weapons _veh) - _pylonWeapons);
 	};
 	
+	if (_veh isKindOf "Tank") then
+	{
+		[_veh, 1, "ACE_Track", true] call ace_repair_fnc_addSpareParts;
+	};
+	if (_veh isKindOf "Car") then
+	{
+		[_veh, 1, "ACE_Wheel", true] call ace_repair_fnc_addSpareParts;
+	};
+	
 	sleep 2;
 	_veh setVehicleLock "UNLOCKED";
 	_veh setDir ASORVS_VehicleSpawnDir;
