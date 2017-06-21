@@ -42,6 +42,7 @@ objNull spawn {
 	{
 		[_veh, 1, "ACE_Wheel", true] call ace_repair_fnc_addSpareParts;
 	};
+	[_veh, 1, "ACE_ConcertinaWireCoil", true] call ace_repair_fnc_addSpareParts;
 	
 	sleep 2;
 	_veh setVehicleLock "UNLOCKED";
