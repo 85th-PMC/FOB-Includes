@@ -6,6 +6,7 @@ independent setFriend [west, 0];
 []spawn {
 	while {true} do {{
 		deleteGroup _x
+		0 setfog 0;
 	}forEach allGroups;
 	//diag_log "Groupcleanup script run..";
 	sleep 601;
