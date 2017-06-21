@@ -12,6 +12,7 @@ objNull spawn {
 	_veh = createVehicle [ASORVS_CurrentVehicle, ASORVS_VehicleSpawnPos, [], 0, "CAN_COLLIDE"];
 	_veh setVariable ["tf_side", "west", true];
 	_veh setVariable ["tf_isolationAmount", 0.1, true];
+	_veh setVariable ["ace_vehiclelock_lockSide", west];
 	
 	_veh setVehicleReportRemoteTargets true;
 	_veh setVehicleReceiveRemoteTargets true;
