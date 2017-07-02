@@ -154,7 +154,7 @@ class items
 								class Item1
 								{
 									name="ACE_epinephrine";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -400,7 +400,7 @@ class items
 								class Item1
 								{
 									name="ACE_epinephrine";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -640,7 +640,7 @@ class items
 								class Item1
 								{
 									name="ACE_epinephrine";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -1195,7 +1195,7 @@ class items
 								class Item1
 								{
 									name="ACE_epinephrine";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -1437,7 +1437,7 @@ class items
 								class Item1
 								{
 									name="ACE_epinephrine";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -2279,7 +2279,7 @@ class items
 								class Item3
 								{
 									name="ACE_epinephrine";
-									count=2;
+									count=4;
 								};
 								class Item4
 								{
@@ -2541,7 +2541,7 @@ class items
 								class Item1
 								{
 									name="ACE_epinephrine";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -2767,7 +2767,7 @@ class items
 								class Item1
 								{
 									name="ACE_epinephrine";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -2992,7 +2992,7 @@ class items
 								class Item1
 								{
 									name="ACE_epinephrine";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -3285,7 +3285,7 @@ class items
 								class Item1
 								{
 									name="ACE_epinephrine";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -3526,7 +3526,7 @@ class items
 								class Item1
 								{
 									name="ACE_epinephrine";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -4365,7 +4365,7 @@ class items
 								class Item3
 								{
 									name="ACE_epinephrine";
-									count=2;
+									count=4;
 								};
 								class Item4
 								{
@@ -4627,7 +4627,7 @@ class items
 								class Item1
 								{
 									name="ACE_epinephrine";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -4853,7 +4853,7 @@ class items
 								class Item1
 								{
 									name="ACE_epinephrine";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
@@ -5077,7 +5077,7 @@ class items
 								class Item1
 								{
 									name="ACE_epinephrine";
-									count=2;
+									count=4;
 								};
 								class Item2
 								{
