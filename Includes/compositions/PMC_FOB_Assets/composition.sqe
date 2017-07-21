@@ -13004,7 +13004,7 @@ class items
 		flags=4;
 		class Attributes
 		{
-			init="this addAction [""<t color='#ee4e00' size='2'>Spawn Cars</t>"", {[[""cars""], [], ""carspawn"", 0, 5] execvm ""ASORVS\open.sqf"";}, [], 9999, true, false, """", ""((_target distance _this) <10)""];";
+			init="this addAction [""<t color='#ee4e00' size='2'>Spawn Cars</t>"", {[[""cars""], [], ""carspawn"", 0, 10] execvm ""ASORVS\open.sqf"";}, [], 9999, true, false, """", ""((_target distance _this) <10)""];";
 			disableSimulation=1;
 		};
 		id=626;
@@ -13065,7 +13065,7 @@ class items
 		flags=4;
 		class Attributes
 		{
-			init="this addAction [""<t color='#ee4e00' size='2'>Spawn Armour</t>"", {[[""tanks""], [], ""carspawn"", 0, 5] execvm ""ASORVS\open.sqf"";}, [], 9999, true, false, """", ""((_target distance _this) <10)""];";
+			init="this addAction [""<t color='#ee4e00' size='2'>Spawn Armour</t>"", {[[""tanks""], [], ""carspawn"", 0, 10] execvm ""ASORVS\open.sqf"";}, [], 9999, true, false, """", ""((_target distance _this) <10)""];";
 			disableSimulation=1;
 		};
 		id=627;
@@ -13126,7 +13126,7 @@ class items
 		flags=4;
 		class Attributes
 		{
-			init="this addAction [""<t color='#ee4e00' size='2'>Spawn Planes</t>"", {[[""planes""], [], ""planespawn"", 0, 10] execvm ""ASORVS\open.sqf"";}, [], 9999, true, false, """", ""((_target distance _this) <10)""];";
+			init="this addAction [""<t color='#ee4e00' size='2'>Spawn Planes</t>"", {[[""planes""], [], ""planespawn"", 0, 15] execvm ""ASORVS\open.sqf"";}, [], 9999, true, false, """", ""((_target distance _this) <10)""];";
 			disableSimulation=1;
 		};
 		id=628;
@@ -13187,7 +13187,7 @@ class items
 		flags=4;
 		class Attributes
 		{
-			init="this addAction [""<t color='#ee4e00' size='2'>Spawn Helicopters</t>"", {[[""helicopters""], [], ""chopperspawn"", 0, 5] execvm ""ASORVS\open.sqf"";}, [], 9999, true, false, """", ""((_target distance _this) <10)""];";
+			init="this addAction [""<t color='#ee4e00' size='2'>Spawn Helicopters</t>"", {[[""helicopters""], [], ""chopperspawn"", 0, 10] execvm ""ASORVS\open.sqf"";}, [], 9999, true, false, """", ""((_target distance _this) <10)""];";
 			disableSimulation=1;
 		};
 		id=629;
