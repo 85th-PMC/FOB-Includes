@@ -18,6 +18,7 @@ _veh addItemCargoGlobal ["ACE_M26_Clacker",1];
 _veh addItemCargoGlobal ["tf47_optic_m3maaws",1]; 
 _veh addItemCargoGlobal ["ACE_NVG_Wide",1];
 _veh addItemCargoGlobal ["ACE_SpareBarrel",1];
+_veh addItemCargoGlobal ["ACE_EntrenchingTool",1];
 
 // magazines and explosives go here
 _veh addMagazineCargoGlobal ["hlc_20Rnd_762x51_B_fal",12];
