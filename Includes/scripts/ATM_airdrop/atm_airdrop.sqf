@@ -73,11 +73,11 @@ _target setPos [_x,_y,_z+Altitude];
 openMap false;
 deleteMarker "mkr_halo";
 
-0=[_target] call Frontpack;
+// 0=[_target] call Frontpack;
 
-removeBackpack _target;
-sleep 0,5;
-_target addBackpack "B_Parachute";
+// removeBackpack _target;
+// sleep 0,5;
+// _target addBackpack "B_Parachute";
 if ((getPos _target select 2) >= 8000) then{
 	removeHeadgear _target;
 	_target addHeadgear "H_CrewHelmetHeli_B";
@@ -102,8 +102,8 @@ _target removeAction BlueOn;
 _target removeAction YellowOn;
 _target removeAction GreenOn;
 _target removeaction Iron;
-deletevehicle (_target getvariable "frontpack"); _target setvariable ["frontpack",nil,true];
-deletevehicle (_target getvariable "lgtarray"); _target setvariable ["lgtarray",nil,true];
+// deletevehicle (_target getvariable "frontpack"); _target setvariable ["frontpack",nil,true];
+// deletevehicle (_target getvariable "lgtarray"); _target setvariable ["lgtarray",nil,true];
 if (!IsCutRope) Then {
 	(findDisplay 46) displayRemoveEventHandler ["KeyDown", Cut_Rope];
 };
@@ -112,6 +112,6 @@ sleep 3;
 hintsilent "";
 sleep 1;
 
-0=[_target,_loadout] call Setloadout;
+// 0=[_target,_loadout] call Setloadout;
 
 if (true) exitWith {};
