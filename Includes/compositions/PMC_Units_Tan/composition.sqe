@@ -28,7 +28,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 							class primaryMuzzleMag
 							{
 								name="11Rnd_45ACP_Mag";
@@ -275,7 +275,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 							class primaryMuzzleMag
 							{
 								name="11Rnd_45ACP_Mag";
@@ -522,7 +522,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 							class primaryMuzzleMag
 							{
 								name="11Rnd_45ACP_Mag";
@@ -758,7 +758,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -1079,7 +1079,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -1321,7 +1321,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -1563,7 +1563,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -1842,7 +1842,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -2438,7 +2438,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -2664,7 +2664,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -2889,7 +2889,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -3170,7 +3170,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -3412,7 +3412,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -3654,7 +3654,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -3933,7 +3933,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -4529,7 +4529,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -4755,7 +4755,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -4980,7 +4980,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -5263,7 +5263,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 							class primaryMuzzleMag
 							{
 								name="11Rnd_45ACP_Mag";
@@ -5472,7 +5472,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 							class primaryMuzzleMag
 							{
 								name="11Rnd_45ACP_Mag";
@@ -5719,7 +5719,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 							class primaryMuzzleMag
 							{
 								name="11Rnd_45ACP_Mag";
@@ -5928,7 +5928,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 							class primaryMuzzleMag
 							{
 								name="11Rnd_45ACP_Mag";
@@ -6175,7 +6175,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 							class primaryMuzzleMag
 							{
 								name="11Rnd_45ACP_Mag";
@@ -6384,7 +6384,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 							class primaryMuzzleMag
 							{
 								name="11Rnd_45ACP_Mag";
@@ -6628,7 +6628,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 							class primaryMuzzleMag
 							{
 								name="11Rnd_45ACP_Mag";
@@ -6799,7 +6799,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 							class primaryMuzzleMag
 							{
 								name="11Rnd_45ACP_Mag";
@@ -7007,7 +7007,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 							class primaryMuzzleMag
 							{
 								name="11Rnd_45ACP_Mag";
@@ -7178,7 +7178,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 							class primaryMuzzleMag
 							{
 								name="11Rnd_45ACP_Mag";
@@ -7385,7 +7385,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -7645,7 +7645,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -7905,7 +7905,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -8165,7 +8165,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -8481,7 +8481,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -8741,7 +8741,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -9001,7 +9001,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -9261,7 +9261,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class binocular
 						{
@@ -9578,7 +9578,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class uniform
 						{
@@ -9646,7 +9646,7 @@ class items
 						};
 						class backpack
 						{
-							typeName="tfw_ilbe_wd";
+							typeName="tfw_ilbe_a_vis";
 							isBackpack=1;
 							class ItemCargo
 							{
@@ -9781,7 +9781,7 @@ class items
 					{
 						class handgun
 						{
-							name="hgun_Pistol_heavy_01_F";
+							name="RH_fn57";
 						};
 						class uniform
 						{
@@ -9849,7 +9849,7 @@ class items
 						};
 						class backpack
 						{
-							typeName="tfw_ilbe_wd";
+							typeName="tfw_ilbe_a_vis";
 							isBackpack=1;
 							class ItemCargo
 							{
