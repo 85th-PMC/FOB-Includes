@@ -9418,7 +9418,7 @@ class items
 						};
 						class vest
 						{
-							typeName="V_Rangemaster_belt";
+							typeName="V_LegStrapBag_black_F";
 							isBackpack=0;
 							class MagazineCargo
 							{
@@ -9659,7 +9659,7 @@ class items
 						};
 						class vest
 						{
-							typeName="V_Rangemaster_belt";
+							typeName="V_LegStrapBag_black_F";
 							isBackpack=0;
 							class MagazineCargo
 							{
