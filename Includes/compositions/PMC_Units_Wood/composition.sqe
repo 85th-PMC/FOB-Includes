@@ -9351,13 +9351,13 @@ class items
 				dataType="Object";
 				class PositionInfo
 				{
-					position[]={-0.14111328,0.0015249252,13.674683};
+					position[]={-0.14111328,0.0014390945,13.674438};
 				};
 				side="Civilian";
 				flags=7;
 				class Attributes
 				{
-					init="call{this addItemToUniform ""ACE_key_west"";}";
+					init="call{this addItemToUniform ""ACE_key_west""; this setVariable [""TFAR_curatorCamEars"", true]}";
 					name="bis_curatorUnit_2";
 					description="Crossroads 1@Crossroads";
 					isPlayable=1;
@@ -9486,7 +9486,6 @@ class items
 				};
 				id=4186;
 				type="C_man_pilot_F";
-				atlOffset=8.5830688e-005;
 				class CustomAttributes
 				{
 					class Attribute0
@@ -9592,13 +9591,13 @@ class items
 				dataType="Object";
 				class PositionInfo
 				{
-					position[]={-0.23291016,0.0015249252,15.825684};
+					position[]={-0.23291016,0.0014390945,15.825439};
 				};
 				side="Civilian";
 				flags=5;
 				class Attributes
 				{
-					init="call{this addItemToUniform ""ACE_key_west"";}";
+					init="call{this addItemToUniform ""ACE_key_west""; this setVariable [""TFAR_curatorCamEars"", true]}";
 					name="bis_curatorUnit_3";
 					description="Crossroads 2";
 					isPlayable=1;
@@ -9727,7 +9726,6 @@ class items
 				};
 				id=4187;
 				type="C_man_pilot_F";
-				atlOffset=8.5830688e-005;
 				class CustomAttributes
 				{
 					class Attribute0
@@ -9833,7 +9831,6 @@ class items
 		{
 		};
 		id=4185;
-		atlOffset=8.5830688e-005;
 		class CustomAttributes
 		{
 			class Attribute0
