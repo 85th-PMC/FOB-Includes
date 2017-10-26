@@ -5,11 +5,12 @@ objNull spawn {
 		deleteVehicle _x;
 		_somedeleted =true;
 	}
-	forEach (ASORVS_VehicleSpawnPos nearEntities ASORVS_VehicleSpawnRadius);
+	forEach (ASORVS_VehicleSpawnPos nearEntities [["Air", "Car", "Tank"], ASORVS_VehicleSpawnRadius]);
 	if(_somedeleted) then {
 		sleep 2;
 	};
 	_veh = createVehicle [ASORVS_CurrentVehicle, ASORVS_VehicleSpawnPos, [], 0, "CAN_COLLIDE"];
+	_veh setPosASL [getPos _veh select 0, getPos _veh select 1, 17.5];
 	_veh setVariable ["tf_side", "west", true];
 	_veh setVariable ["tf_isolationAmount", 0.1, true];
 	_veh setVariable ["ace_vehiclelock_lockSide", west];
