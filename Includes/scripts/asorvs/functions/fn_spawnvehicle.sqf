@@ -44,7 +44,7 @@ objNull spawn {
 		[_veh, 1, "ACE_Wheel", true] call ace_repair_fnc_addSpareParts;
 	};
 	[_veh, 1, "ACE_ConcertinaWireCoil", true] call ace_repair_fnc_addSpareParts;
-	
+	_veh addAction ["Logistics Menu", {createDialog "UK3CB_Logistics_GUI_Dialog"}, nil, 3.99, false, true, "", "[vehicle player] call UK3CB_BAF_Vehicles_Weapons_fnc_can_load_vehicle", 10];
 	sleep 2;
 	_veh setVehicleLock "UNLOCKED";
 	_veh setDir ASORVS_VehicleSpawnDir;
