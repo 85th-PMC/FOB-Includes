@@ -10378,7 +10378,7 @@ class items
 		flags=5;
 		class Attributes
 		{
-			init="this setflagtexture ""pmc.paa""; this addAction[""<t color='#ee4e00' size='2'>HALO jump</t>"", ""ATM_airdrop\atm_airdrop.sqf""]";
+			init="this setflagtexture "pmc.paa"; this addAction["<t color='#ee4e00' size='2'>HALO jump</t>", "ATM_airdrop\atm_airdrop.sqf", [], 999, true, false, "", "((_target distance _this) <2)"];"
 		};
 		id=2912;
 		type="Flag_White_F";
