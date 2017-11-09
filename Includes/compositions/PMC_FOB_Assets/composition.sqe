@@ -9235,19 +9235,19 @@ class items
 		dataType="Object";
 		class PositionInfo
 		{
-			position[]={7.4047852,3.1404152,17.02832};
-			angles[]={0,4.1890888,0};
+			position[]={7.4052734,3.1404028,17.028687};
+			angles[]={0,4.1890869,0};
 		};
 		side="Empty";
 		class Attributes
 		{
-			init="call{[myDataTerminal1,3] call BIS_fnc_dataTerminalAnimate}";
-			name="myDataTerminal1_1";
+			init="call{[myDataTerminal_1,3] call BIS_fnc_dataTerminalAnimate}";
+			name="myDataTerminal_1";
 			disableSimulation=1;
 		};
 		id=3192;
 		type="Land_DataTerminal_01_F";
-		atlOffset=0.81101227;
+		atlOffset=0.81099987;
 		class CustomAttributes
 		{
 			class Attribute0
@@ -10371,14 +10371,14 @@ class items
 		dataType="Object";
 		class PositionInfo
 		{
-			position[]={-7.5581055,6.2953677,9.3497314};
-			angles[]={0,5.9823446,0};
+			position[]={-7.5576172,6.2953677,9.3497314};
+			angles[]={0,5.9823427,0};
 		};
 		side="Empty";
 		flags=5;
 		class Attributes
 		{
-			init="this setflagtexture "pmc.paa"; this addAction["<t color='#ee4e00' size='2'>HALO jump</t>", "ATM_airdrop\atm_airdrop.sqf", [], 999, true, false, "", "((_target distance _this) <2)"];"
+			init="call{this setflagtexture ""pmc.paa""; this addAction[""<t color='#ee4e00' size='2'>HALO jump</t>"", ""ATM_airdrop\atm_airdrop.sqf"", [], 999, true, false, """", ""((_target distance _this) <2)""];}";
 		};
 		id=2912;
 		type="Flag_White_F";
@@ -23242,7 +23242,7 @@ class items
 		class Attributes
 		{
 			name="helpme";
-			condition="call{this}";
+			condition="call{this && (player in thisList)}";
 			onActivation="call{[player, player] call ace_medical_fnc_treatmentAdvanced_fullHeal; [player, stambitch] call ace_advanced_fatigue_fnc_handlePlayerChanged; player setDamage 0; player setfatigue 0; systemchat ""Returned to Full Health""; systemchat ""Returned to Full Stamina"";}";
 			sizeA=2.1329999;
 			sizeB=2.8199999;
