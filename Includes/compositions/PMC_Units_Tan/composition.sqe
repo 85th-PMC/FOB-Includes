@@ -41,7 +41,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -288,7 +288,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -535,7 +535,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -766,7 +766,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -1068,7 +1068,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -1310,7 +1310,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -1552,7 +1552,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -1831,7 +1831,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -2110,7 +2110,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -2427,7 +2427,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -2653,7 +2653,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -2878,7 +2878,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -3140,7 +3140,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -3382,7 +3382,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -3624,7 +3624,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -3903,7 +3903,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -4182,7 +4182,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -4499,7 +4499,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -4725,7 +4725,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -4950,7 +4950,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -5219,7 +5219,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -5428,7 +5428,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -5656,7 +5656,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -5865,7 +5865,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -6093,7 +6093,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -6302,7 +6302,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Garment_LS_TS_BP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -7241,7 +7241,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Combat_RS_BS_TP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -7501,7 +7501,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Combat_RS_BS_TP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -7761,7 +7761,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Combat_RS_BS_TP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -8021,7 +8021,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Combat_RS_BS_TP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -8318,7 +8318,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Combat_RS_BS_TP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -8578,7 +8578,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Combat_RS_BS_TP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -8838,7 +8838,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Combat_RS_BS_TP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -9098,7 +9098,7 @@ class items
 						};
 						class uniform
 						{
-							typeName="tacs_Uniform_Combat_RS_BS_TP_BB";
+							typeName="45KO2_2_GADP_uniform";
 							isBackpack=0;
 							class ItemCargo
 							{
@@ -9504,7 +9504,7 @@ class items
 						radio="tf_anprc152";
 						gps="ItemcTab";
 						goggles="G_Aviator";
-						headgear="tf47_beret";
+						headgear="85th_beret";
 					};
 				};
 				id=4239;
@@ -9706,7 +9706,7 @@ class items
 						radio="tf_anprc152";
 						gps="ItemcTab";
 						goggles="G_Aviator";
-						headgear="tf47_beret";
+						headgear="85th_beret";
 					};
 				};
 				id=4240;
