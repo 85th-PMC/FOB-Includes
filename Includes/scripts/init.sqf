@@ -3,6 +3,9 @@ enableRadio false;
 
 independent setFriend [west, 0];
 
+ACE_maxWeightDrag = 999999999;
+ACE_maxWeightCarry = 99999999;
+
 /*[]spawn {
 	while {true} do {{
 		deleteGroup _x;
