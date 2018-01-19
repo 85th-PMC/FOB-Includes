@@ -3,8 +3,8 @@ enableRadio false;
 
 independent setFriend [west, 0];
 
-ACE_maxWeightDrag = 999999999;
-ACE_maxWeightCarry = 99999999;
+ACE_maxWeightDrag = 2000;
+ACE_maxWeightCarry = 2000;
 
 /*[]spawn {
 	while {true} do {{
