@@ -2,11 +2,11 @@ enableSentences false;
 enableRadio false;
 
 independent setFriend [west, 0];
-
+/*
 ACE_maxWeightDrag = 2000;
 ACE_maxWeightCarry = 2000;
 
-/*[]spawn {
+[]spawn {
 	while {true} do {{
 		deleteGroup _x;
 		0 setfog 0;
