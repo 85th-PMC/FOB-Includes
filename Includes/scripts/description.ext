@@ -49,3 +49,32 @@ saving = 0;
 };*/
 
 enableDebugConsole = 1;
+
+class ACEX_Fortify_Presets {
+    class 85thDefence {
+        objects[] = {
+            {"Sandbag", 5},
+            {"Bunker", 50},
+            {"EFM_concrete_barrier_new", 5},
+            {"EFM_concrete_wall_new_camo_blufor", 7},
+            {"EFM_coverage_camo_net_2m_blufor", 1},
+            {"EFM_coverage_concrete_2m", 5},
+            {"EFM_coverage_plywood_2_7m_fortified_A", 2},
+            {"EFM_rack_wood_big_new", 1},
+            {"EFM_revetment_wall_1_60x0_60x0_90m_soil_c_blufor", 10},
+            {"EFM_revetment_wall_0_80x0_60x0_90m_soil_c_blufor", 7},
+            {"EFM_stair_wood_2_7m", 3},
+            {"EFM_stair_wood_1m", 2},
+            {"EFM_ladder_metal_3_7m", 3},
+            {"Land_BarGate_F", 10},
+            {"Land_CzechHedgehog_01_new_F", 10},
+            {"Land_BagFence_Round_F", 3},
+            {"Land_BagFence_Long_F", 3},
+            {"Land_BagFence_Short_F", 2},
+            {"Land_BagFence_End_F", 1},
+            {"Land_SandbagBarricade_01_hole_F", 5},
+            {"Land_BagBunker_Small_F", 10},
+            {"Land_BagBunker_Tower_F", 20}
+        };
+    };
+};
