@@ -5,7 +5,7 @@ objNull spawn {
 		deleteVehicle _x;
 		_somedeleted =true;
 	}
-	forEach (ASORVS_VehicleSpawnPos nearEntities ASORVS_VehicleSpawnRadius);
+	forEach (ASORVS_VehicleSpawnPos nearEntities [["Air", "Car", "Motorcycle", "Tank"], ASORVS_VehicleSpawnRadius]);
 	if(_somedeleted) then {
 		sleep 2;
 	};
