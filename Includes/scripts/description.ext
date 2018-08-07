@@ -29,10 +29,10 @@ respawnTemplates[] = {"ace_spectator"};
 disabledAI = 1;
 disableChannels[]={2,4,5,6};
 
-corpseManagerMode = 3;
+/*corpseManagerMode = 3;
 corpseLimit = 25;
 corpseRemovalMinTime = 1200;
-corpseRemovalMaxTime = 3600;
+corpseRemovalMaxTime = 3600;*/
 
 saving = 0;
 
