@@ -2,8 +2,10 @@ objNull spawn {
 	sleep 2; //wait for client to be able to check vehicles positions properly again.
 	_somedeleted =false;
 	{
-		deleteVehicle _x;
-		_somedeleted =true;
+		if (simulationEnabled _x) then {
+			deleteVehicle _x;
+			_somedeleted =true;
+		};
 	}
 	forEach (ASORVS_VehicleSpawnPos nearEntities [["Air", "Car", "Motorcycle", "Tank"], ASORVS_VehicleSpawnRadius]);
 	if(_somedeleted) then {
