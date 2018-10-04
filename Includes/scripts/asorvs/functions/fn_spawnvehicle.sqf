@@ -1,17 +1,44 @@
 objNull spawn {
 	sleep 2; //wait for client to be able to check vehicles positions properly again.
+	_dst = (getPosASL spawnbox) select 2;
+	_flt = (getPosASL fltspawn) select 2;
+	if (ASORVS_CurrentVehicle isKindOf "LandVehicle") then
+	{
+		ASORVS_VehicleSpawnPos set [2, _dst];
+	};
+	if (ASORVS_CurrentVehicle isKindOf "Helicopter") then
+	{
+		ASORVS_VehicleSpawnPos set [2, _dst];
+	};
+	if (ASORVS_CurrentVehicle isKindOf "Plane") then
+	{
+		ASORVS_VehicleSpawnPos set [2, _flt];
+	};
 	_somedeleted =false;
 	{
 		if (simulationEnabled _x) then {
 			deleteVehicle _x;
 			_somedeleted =true;
 		};
-	}
-	forEach (ASORVS_VehicleSpawnPos nearEntities [["Air", "Car", "Motorcycle", "Tank"], ASORVS_VehicleSpawnRadius]);
+	} forEach (ASORVS_VehicleSpawnPos nearEntities [["Air", "Car", "Motorcycle", "Tank"], ASORVS_VehicleSpawnRadius]);
 	if(_somedeleted) then {
 		sleep 2;
 	};
 	_veh = createVehicle [ASORVS_CurrentVehicle, ASORVS_VehicleSpawnPos, [], 0, "CAN_COLLIDE"];
+	_veh allowDamage false;
+	_veh enableSimulation false;
+	if (ASORVS_CurrentVehicle isKindOf "LandVehicle") then
+	{
+		_veh setPosASL [position _veh select 0, position _veh select 1, _dst];
+	};
+	if (ASORVS_CurrentVehicle isKindOf "Helicopter") then
+	{
+		_veh setPosASL [position _veh select 0, position _veh select 1, _dst];
+	};
+	if (ASORVS_CurrentVehicle isKindOf "Plane") then
+	{
+		_veh setPosASL [position _veh select 0, position _veh select 1, _flt];
+	};
 	_veh setVariable ["tf_side", "west", true];
 	_veh setVariable ["tf_isolationAmount", 0.1, true];
 	_veh setVariable ["ace_vehiclelock_lockSide", west];
@@ -50,6 +77,8 @@ objNull spawn {
 	sleep 2;
 	_veh setVehicleLock "UNLOCKED";
 	_veh setDir ASORVS_VehicleSpawnDir;
+	_veh allowDamage true;
+	_veh enableSimulation true;
 	clearWeaponCargoGlobal _veh;
 	clearMagazineCargoGlobal _veh;
 	clearItemCargoGlobal _veh;
