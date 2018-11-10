@@ -2026,7 +2026,7 @@ class items
 							isBackpack=1;
 							class MagazineCargo
 							{
-								items=5;
+								items=7;
 								class Item0
 								{
 									name="APERSTripMine_Wire_Mag";
@@ -2055,6 +2055,18 @@ class items
 								{
 									name="APERSMineDispenser_Mag";
 									count=1;
+									ammoLeft=1;
+								};
+								class Item5
+								{
+									name="AMP_Breaching_Charge_Mag";
+									count=10;
+									ammoLeft=1;
+								};
+								class Item6
+								{
+									name="rhs_mine_msk40p_red_mag";
+									count=4;
 									ammoLeft=1;
 								};
 							};
@@ -3929,7 +3941,7 @@ class items
 							isBackpack=1;
 							class MagazineCargo
 							{
-								items=5;
+								items=7;
 								class Item0
 								{
 									name="APERSTripMine_Wire_Mag";
@@ -3958,6 +3970,18 @@ class items
 								{
 									name="APERSMineDispenser_Mag";
 									count=1;
+									ammoLeft=1;
+								};
+								class Item5
+								{
+									name="AMP_Breaching_Charge_Mag";
+									count=10;
+									ammoLeft=1;
+								};
+								class Item6
+								{
+									name="rhs_mine_msk40p_red_mag";
+									count=4;
 									ammoLeft=1;
 								};
 							};
